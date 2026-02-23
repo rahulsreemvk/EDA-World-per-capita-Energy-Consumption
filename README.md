@@ -28,7 +28,7 @@ The dataset contains:
 Time Range: **1965 – 2019**  
 Total Records: **8,961**
 
-The dataset structure strongly matches data published by *Our World in Data*, which is frequently redistributed via Kaggle.
+Open dataset published by *Our World in Data*, which is frequently redistributed via Kaggle.
 
 If reusing the dataset, please verify original attribution.
 
