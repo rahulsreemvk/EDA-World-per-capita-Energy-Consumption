@@ -92,8 +92,9 @@ Install dependencies:
 
 Open:
   EDA-World per-capita Energy Consumption.ipynb
-
-###📌 Limitations
+```
+---
+## 📌 Limitations
 
 - The model does not include multivariate predictors.
 - No advanced time-series techniques are applied.
