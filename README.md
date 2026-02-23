@@ -86,3 +86,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/rahulsreemvk/EDA-World-per-capita-Energy-Consumption.git
 cd EDA-World-per-capita-Energy-Consumption
+
+Install dependencies:
+  pip install -r requirements.txt
+
+Open:
+  EDA-World per-capita Energy Consumption.ipynb
+
+###📌 Limitations
+
+- The model does not include multivariate predictors.
+- No advanced time-series techniques are applied.
+- Data cleaning assumes dataset integrity.
